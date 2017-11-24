@@ -1,0 +1,11 @@
+node_modules
+*.log
+.DS_Store
+.vscode
+/dist
+server/node_modules
+server/.gitignore
+server/yarn.lock
+.idea/
+yarn.lock
+elementComponents.js
